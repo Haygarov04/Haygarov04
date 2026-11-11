@@ -18,7 +18,11 @@
 
 **[СК „Кано“ Русе](https://kano-ruse.vercel.app)** е сайтът на клуба по джудо. Има график, треньори и турнири.
 
-**[OSINT Lead Tool](https://osint-tool-black.vercel.app)** намира фирми по град и дейност, чисти контактите и сваля CSV. [Код](https://github.com/Haygarov04/Osint-tool)
+**[DentKings](https://dentkings.com/)** оправя вдлъбнатини без боя в Rockville. От сайта се праща снимка за оферта, има и градушки и фолио.
+
+**[ZAURA](https://zaura.bio)** е магазинът за клетъчния протокол и биомиметичния крем. Има количка, поръчка и акаунт.
+
+**[5StarCuts](https://www.5starcuts.net/)** е барбершопът в Русе, на ул. Плиска 94. От сайта се запазва час.
 
 Портфолио: **[velislav-main.vercel.app](https://velislav-main.vercel.app/)**
 
