@@ -54,7 +54,6 @@ contributions in the last year
 
 </div>
 
-Same counter as the green graph below. The old stats cards only saw public repositories, so they showed about 130.
 
 ## Contact
 
