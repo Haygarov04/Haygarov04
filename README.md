@@ -1,49 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,60:0d419d,100:58a6ff&height=190&section=header&text=Velislav%20Haygarov&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Freelance%20%C2%B7%20Ruse&descAlignY=58&descAlign=50" width="100%" alt="Velislav Haygarov"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,55:0d419d,100:58a6ff&height=200&section=header&text=Velislav%20Haygarov&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Freelance%20developer%20%C2%B7%20Ruse&descAlignY=56&descAlign=50" width="100%" alt="Velislav Haygarov"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2%D0%B5%20%D0%B8%20%D0%BC%D0%B0%D0%BB%D0%BA%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B8%3BNext.js%20%C2%B7%20Electron%20%C2%B7%20TypeScript%3B1%20190%20%D0%BF%D1%80%D0%B8%D0%BD%D0%BE%D1%81%D0%B0%20%D0%B7%D0%B0%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B0%D1%82%D0%B0%20%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0)](https://github.com/Haygarov04)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Websites%2C+shops+and+desktop+apps;Next.js+%C2%B7+Electron+%C2%B7+TypeScript;1%2C190+contributions+this+year)](https://github.com/Haygarov04)
 
-# 1 190
-
-приноса за последната година
-
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,electron,vite,threejs,cs,python&theme=dark&perline=9" alt="TypeScript, Next.js, React, Tailwind, Electron, Vite, Three.js, C#, Python"/>
-
-<br>
-
-[![Отворен за работа](https://img.shields.io/badge/отворен_за_работа-238636?style=for-the-badge)](mailto:velislav.haygarov@abv.bg)
+[![Open to work](https://img.shields.io/badge/Open%20to%20work-238636?style=for-the-badge)](mailto:velislav.haygarov@abv.bg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-velislav--main.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://velislav-main.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-velislav.haygarov@abv.bg-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:velislav.haygarov@abv.bg)
 
 </div>
 
-Правя сайтове и малки продукти и взимам freelance работа.
+## About
 
-## Продукти
+I'm Velislav Haygarov, a freelance developer from Ruse, Bulgaria. I build websites and small products and ship them.
 
-**[OLTechX](https://www.oltechx.com)** — пазар за техника. [OLTechX Check](https://github.com/Haygarov04/oltechx-benchy) проверява компютъра преди обявата. Windows, Mac и Android.
+- Shops, booking sites, club sites, and a desktop app for checking a computer before it is sold.
+- Most of the web work is Next.js, React and Tailwind, deployed on Vercel.
+- Open to freelance work.
 
-**[HandyCrafts](https://handy-crafts.vercel.app)** — фигурка по снимка. Виждаш я преди да поръчаш.
+## Work
 
-**[moving.one](https://www.moving.one)** — оферта за преместване от снимки на стаята. [Скенерът](https://github.com/Haygarov04/moving-one-live-scan) е отделна React библиотека.
+| | |
+| --- | --- |
+| **[OLTechX](https://www.oltechx.com)** | Marketplace for computer parts. [OLTechX Check](https://github.com/Haygarov04/oltechx-benchy) inspects a PC or phone before the listing. Windows, Mac and Android. |
+| **[HandyCrafts](https://handy-crafts.vercel.app)** | A figurine from one photo, with a preview before you order. |
+| **[moving.one](https://www.moving.one)** | A moving quote from photos of the room. The [scanner](https://github.com/Haygarov04/moving-one-live-scan) is a separate React library. |
+| **[SK Kano Ruse](https://kano-ruse.vercel.app)** | Site for the judo club: schedule, coaches, tournaments. |
+| **[DentKings](https://dentkings.com/)** | Paintless dent repair in Rockville. Quote from a photo. |
+| **[ZAURA](https://zaura.bio)** | Shop for the cell protocol and the biomimetic cream. |
+| **[5StarCuts](https://www.5starcuts.net/)** | Barbershop in Ruse. Booking from the site. |
+| **[Portfolio](https://velislav-main.vercel.app/)** | velislav-main.vercel.app |
 
-**[СК „Кано“ Русе](https://kano-ruse.vercel.app)** — сайт на клуба по джудо: график, треньори, турнири.
+## Stack
 
-**[DentKings](https://dentkings.com/)** — оправяне на вдлъбнатини без боя в Rockville. Оферта по снимка.
+<div align="center">
 
-**[ZAURA](https://zaura.bio)** — магазин за клетъчния протокол и биомиметичния крем.
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,prisma,postgres,mysql,redis,supabase,electron,vite,threejs,gsap,python,cs,dotnet,html,css,vercel,git&perline=8&theme=dark" alt="TypeScript, JavaScript, Next.js, React, Tailwind, Node.js, Prisma, PostgreSQL, MySQL, Redis, Supabase, Electron, Vite, Three.js, GSAP, Python, C#, .NET, HTML, CSS, Vercel, Git"/>
 
-**[5StarCuts](https://www.5starcuts.net/)** — барбершоп в Русе. Часът се запазва от сайта.
+</div>
 
-Портфолио: **[velislav-main.vercel.app](https://velislav-main.vercel.app/)**
+Next.js, React and Tailwind for the sites. Electron, Vite, Capacitor and Three.js for OLTechX Check. Prisma or Drizzle with Postgres, MySQL or Redis where the app needs a database. C#, .NET and Python from earlier projects. GSAP on a few marketing pages.
 
-## Стак
+## GitHub
 
-Сайтовете са на Next.js и са качени на Vercel. OLTechX Check е Electron и Capacitor.
+<div align="center">
 
-## Контакт
+# 1,190
 
-**Имейл:** [velislav.haygarov@abv.bg](mailto:velislav.haygarov@abv.bg)
+contributions in the last year
 
-**Портфолио:** [velislav-main.vercel.app](https://velislav-main.vercel.app/)
+| **1,147** commits | **17** pull requests | **24** repositories created |
+| --- | --- | --- |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:010409&height=120&section=footer" width="100%" alt=""/>
+</div>
+
+Same counter as the green graph below. The old stats cards only saw public repositories, so they showed about 130.
+
+## Contact
+
+**Email:** [velislav.haygarov@abv.bg](mailto:velislav.haygarov@abv.bg)
+
+**Portfolio:** [velislav-main.vercel.app](https://velislav-main.vercel.app/)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:010409&height=110&section=footer" width="100%" alt=""/>
+
+</div>
