@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Websites%2C+shops+and+desktop+apps;Next.js+%C2%B7+Electron+%C2%B7+TypeScript;1%2C190+contributions+this+year)](https://github.com/Haygarov04)
 
-[![Open to work](https://img.shields.io/badge/Open%20to%20work-238636?style=for-the-badge)](mailto:velislav.haygarov@abv.bg)
-[![Portfolio](https://img.shields.io/badge/Portfolio-velislav--main.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://velislav-main.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-velislav.haygarov@abv.bg-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:velislav.haygarov@abv.bg)
+[![Open to work](https://img.shields.io/badge/Open%20to%20work-238636?style=for-the-badge&logoColor=white)](mailto:velislav.haygarov@abv.bg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://velislav-main.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-6e40c9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:velislav.haygarov@abv.bg)
 
 </div>
 
