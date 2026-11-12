@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,55:0d419d,100:58a6ff&height=200&section=header&text=Velislav%20Haygarov&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Freelance%20developer%20%C2%B7%20Ruse&descAlignY=56&descAlign=50" width="100%" alt="Velislav Haygarov"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Websites%2C+shops+and+desktop+apps;Next.js+%C2%B7+Electron+%C2%B7+TypeScript;1%2C196+contributions+this+year)](https://github.com/Haygarov04)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Websites%2C+shops+and+desktop+apps;Next.js+%C2%B7+Electron+%C2%B7+TypeScript;Open+to+freelance+work)](https://github.com/Haygarov04)
 
 [![Open to work](https://img.shields.io/badge/Open%20to%20work-238636?style=for-the-badge&logoColor=white)](mailto:velislav.haygarov@abv.bg)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://velislav-main.vercel.app/)
@@ -40,18 +40,6 @@ I'm Velislav Haygarov, a freelance developer from Ruse, Bulgaria. I build websit
 </div>
 
 Next.js, React and Tailwind for the sites. Electron, Vite, Capacitor and Three.js for OLTechX Check. Prisma or Drizzle with Postgres, MySQL or Redis where the app needs a database. C#, .NET and Python from earlier projects. GSAP on a few marketing pages.
-
-## GitHub
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Haygarov04/Haygarov04/main/assets/contributions.png" width="100%" alt="1,196 contributions in the last year"/>
-
-| **1,147** commits | **17** pull requests | **24** repositories created |
-| --- | --- | --- |
-
-</div>
-
 
 ## Contact
 
